@@ -1,5 +1,8 @@
 # Self-Join-Case
 Leet code problem solved using Self join SQL
+
+Finding Employee whose salary is more than their Manager
+
 Table: Employee
 <br>
 +-------------+---------+<br>
